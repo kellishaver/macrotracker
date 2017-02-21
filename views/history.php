@@ -42,6 +42,7 @@
       </tr>
     </tbody>
   </table>
+  <br><br><br>
 <?php endforeach ?>
 <p>
   <a href="./csv.php">Download All History</a>
