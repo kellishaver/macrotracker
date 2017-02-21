@@ -10,7 +10,9 @@ A logging tool to track calories and macro-nutrients (fat, protein, net carbs). 
 * Open the somewhat incompletely-named `./inc/functions.php`
 * Edit the database info and login password at the top, change timezone if necessary
 * Upload everything to your server
-* Go visit the URL, log in, and start logging stuff
+* Go visit the URL, log in
+* Adjust settings (calorie and nutrient goals) as desired - all units are in grams
+* Start logging stuff
 
 That's it!
 
